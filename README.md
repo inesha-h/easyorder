@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+![Screenshot 2024-10-11 221253](https://github.com/user-attachments/assets/9a8a3a5c-5c67-4b59-b24a-8c093af97564)# Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -68,3 +68,19 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+
+
+![easyorder](https://github.com/user-attachments/assets/714d5f30-776b-4f06-b925-e1621b9e5d5e)
+![Screenshot 2024-10-11 221200](https://github.com/user-attachments/assets/2f1b3a83-053f-45d1-8e48-dd5bf3fc165e)
+![Screenshot 2024-10-11 221225](https://github.com/user-attachments/assets/8669659e-32be-47d5-8074-64bb88e488c0)
+![Uploading Scre![Screenshot 2024-10-11 221356](https://github.com/user-attachments/assets/d659f5a5-e13c-4cfc-865c-156b0f34198b)
+en![Screenshot 2024-10-11 221420](https://github.com/user-attachments/assets/323698d0-0ae2-4542-ac60-7aecbc53b7f3)
+![Screenshot 2024-10-11 221450](https://github.com/user-attachments/assets/abe34dd2-14e8-4f97-8b84-62bb0947de89)
+shot 2024-1![Screenshot 2024-10-11 221510](https://github.com/user-attachments/assets/b2d31e7b-7a88-4530-8fcf-197b477f0b5b)
+![Screenshot 2024-10-11 221539](https://github.com/user-attachments/assets/4fea24d8-0c3d-424f-8946-2d6f9c873217)
+0-11 221253.png…]()
+
+
+
